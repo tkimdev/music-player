@@ -18,22 +18,22 @@ const songs = [
       artist: 'Travis Scott',
     },
     {
-      name: 'travis-2',
+      name: 't-2',
       displayName: 'Highest In The Room MIX',
       artist: 'Travis Scott',
     },
     {
-      name: 'travis-3',
+      name: 't-3',
       displayName: 'Loaded',
       artist: 'Travis Scott feat. Offset',
     },
     {
-      name: 'travis-4',
+      name: 't-4',
       displayName: 'Cyberpunk 2077 Unreleased',
       artist: 'Travis Scott feat. Offset',
     },
     {
-        name: 'travis-5',
+        name: 't-5',
         displayName: 'Forgotten Boogie Nights',
         artist: 'Travis Scott feat. Juicy J',
       },
