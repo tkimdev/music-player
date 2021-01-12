@@ -13,7 +13,7 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
     {
-      name: 'travis-1',
+      name: 't-1',
       displayName: 'Loaded Type Beat',
       artist: 'Travis Scott',
     },
