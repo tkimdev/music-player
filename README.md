@@ -1,7 +1,7 @@
 # music-player
 
 A fully functional Music Player with preloaded 5 songs 
-Functionalities: Album Artwork, Title of Song, Artist of Song , Prev Button, Next Button, Play/Pause Button, Current Time, Total Duration of Time
++ Functionalities: Album Artwork, Title of Song, Artist of Song , Prev Button, Next Button, Play/Pause Button, Current Time, Total Duration of Time
 
 Technologies Used: 
 + HTML5 
