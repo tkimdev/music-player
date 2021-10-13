@@ -3,6 +3,8 @@
 A fully functional Music Player with preloaded 5 songs 🎧
 + Functionalities: Album Artwork, Title of Song, Artist of Song , Prev Button, Next Button, Play/Pause Button, Current Time, Total Duration of Time
 
+### [Live Site](https://tonykimdev.github.io/music-player/)
+
 Technologies Used: 
 + HTML5 
 + CSS3
